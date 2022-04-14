@@ -1,0 +1,29 @@
+.bg-mtrix-dark {
+  background-color: #0e3357;
+}
+
+.bg-mtrix-light {
+  background-color: #3790d4;
+}
+
+
+.fa-yellow {
+  color: #faa800;
+  font-size: 11px;
+}
+
+
+body {
+  font-size: 14px !important;
+}
+
+/**
+* MODAL
+*/
+.modal-xxl {
+  max-width: 1440px;
+}
+
+.width-250 {
+  width: 250px;
+}
